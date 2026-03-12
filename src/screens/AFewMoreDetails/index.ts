@@ -1,0 +1,1 @@
+export { AFewMoreDetails } from "./AFewMoreDetails";
